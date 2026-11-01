@@ -143,7 +143,7 @@ export default function Footer() {
           lg:px-8
         "
       >
-        © 2026 Gitam Tours & Travels. All Rights Reserved | Made  by <a className="italic underline" href="https://dddigitalsolution.com/" target="_blank" rel="noopener noreferrer">Darshan Digital Solutions</a>
+        © 2026 Gitam Tours & Travels. All Rights Reserved | Made  by <a className="italic underline" href="#" target="_blank" rel="noopener noreferrer">Sumit Gulhane</a>
       </div>
     </footer>
   );
