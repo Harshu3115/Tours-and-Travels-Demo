@@ -24,11 +24,11 @@ export const navLinks = [
 export const siteConfig = {
   name: "Gitam Tours & Travels",
 
-  phone: "+919322916716",
+  phone: "8766940806",
 
-  whatsapp: "+919322916716",
+  whatsapp: "8766940806",
 
-  email: "Info@gitamtoursandtravels.in",
+  email: "sumitgulhane2004@gmail.com",
 
   address: "Nehru Chowk,Jalgaon,Maharashtra",
 
